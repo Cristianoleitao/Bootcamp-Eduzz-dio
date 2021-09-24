@@ -1,6 +1,6 @@
-# Bootcamp Eduzz Fullstack digital Innovation One
+# Bootcamp Eduzz Fullstack
 ##
-Desafio de projeto Git/Github
+## Desafio de projeto Git/Github Digital Innovation One
 
 Link 
 [DIO](https://digitalinnovation.one)
