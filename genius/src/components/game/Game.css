@@ -1,0 +1,34 @@
+.grid {
+    display: grid;
+    grid-template-areas: 'verde vermelho' 'amarelo azul';
+    gap: 10px;
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    border: 1px solid white ;
+    border-radius: 100%;
+}
+
+.verde{
+    grid-area: verde;
+    background-color: green;
+    border-top-left-radius: 100%;
+    
+}
+
+.vermelho{
+    grid-area: vermelho;
+    background-color: red;
+    border-top-right-radius: 100%;
+}
+
+.amarelo{
+    grid-area: amarelo;
+    background-color: yellow;
+    border-bottom-left-radius: 100%;
+}
+.azul{
+    grid-area: azul;
+    background-color: blue;
+    border-bottom-right-radius: 100%;
+}

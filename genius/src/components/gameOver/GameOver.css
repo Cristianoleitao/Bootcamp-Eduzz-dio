@@ -1,0 +1,33 @@
+.gameOverShow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.gameOverText{
+    color: black;
+    font-size: 50px;
+}
+.pontuacao {
+    color: white;
+    font-size: 40px;
+    padding-bottom: 50px;
+
+}
+
+.subtext {
+    color: black;
+    font-size: 30px;
+    padding-bottom: 50px;
+    
+
+}
+.button {
+    padding: 30px 30px;
+    background-color: #0c4b16;
+    font-size: 30px;
+    border-radius: 20px;
+    color: white;
+
+} 
